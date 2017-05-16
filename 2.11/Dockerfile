@@ -1,4 +1,4 @@
-FROM codingame/sbt:0.13.15
+FROM techio/sbt:0.13.15
 
 ENV SCALA_VERSION 2.11.11
 ENV SCALA_ARCHIVE http://www.scala-lang.org/files/archive/scala-${SCALA_VERSION}.tgz
